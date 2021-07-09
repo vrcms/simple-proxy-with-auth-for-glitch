@@ -1,0 +1,25 @@
+{
+  "name": "simple-proxy-with-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrcms/simple-proxy-with-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrcms/simple-proxy-with-auth/issues"
+  },
+  "homepage": "https://github.com/vrcms/simple-proxy-with-auth#readme",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "http-proxy": "^1.18.0",    
+    "cookies": "^0.8.0"
+  }
+}
