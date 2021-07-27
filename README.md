@@ -21,9 +21,7 @@ u can change this config in the file: ./api/node-proxy.js
   
 3. Change target website:
 
-default:https://***.glitch.me/F/  ,u can goto default website:www.google.com
-
-other:https://***.glitch.me/F/https://www.qq.com, u can goto www.qq.com
+input a domain,enter,click blue button,u can go.
 
 4. Clean:
 sometimes,u need clean the target website,u can visit https://***.glitch.me/C/
@@ -37,8 +35,8 @@ sometimes,u need clean the target website,u can visit https://***.glitch.me/C/
 admin
 123456
 你可以在node-proxy.js 文件里更改这个配置
-4. 部署完成后，可以尝试访问 https://***.glitch.me/F/ 即可看到效果
-5. 可以访问其他网址, https://***.glitch.me/F/https://www.qq.com 这样可以访问qq.com
+4. 部署完成后，可以尝试访问 https://***.glitch.me/ 即可看到效果
+5. 可以访问其他网址, 输入其他域名即可访问
 6. 清除 https://***.glitch.me/C/ 将回到默认网址 
 
 
